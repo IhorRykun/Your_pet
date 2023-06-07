@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "your_pet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VitaliyMeshechek.github.io/project-YourFavorite_front/",
+  "homepage": "https://ihorrykun.github.io/your_pet/",
   "dependencies": {
     "@emotion/babel-plugin": "^11.11.0",
     "@emotion/react": "^11.11.0",
